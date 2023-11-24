@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Social-proof-section-master/static/css/main.92894a3b.css",
+    "main.js": "/Social-proof-section-master/static/js/main.b52dacd3.js",
+    "index.html": "/Social-proof-section-master/index.html",
+    "static/media/icon-star.svg": "/Social-proof-section-master/static/media/icon-star.2d8e7b7cb342bc812e9df51d276eaa78.svg",
+    "main.92894a3b.css.map": "/Social-proof-section-master/static/css/main.92894a3b.css.map",
+    "main.b52dacd3.js.map": "/Social-proof-section-master/static/js/main.b52dacd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92894a3b.css",
+    "static/js/main.b52dacd3.js"
+  ]
+}
